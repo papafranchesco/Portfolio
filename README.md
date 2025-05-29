@@ -40,14 +40,26 @@
 </p>
 
 
-## 📂 Проекты
-| Проект             | Описание                             | Технологии | Ссылка                         |
-|--------------------|--------------------------------------|------------|-------------------------------|
-| MyPortfolio        | Моя визитка-портфолио на GitHub Pages| React      | [repo](https://github.com/…)  |
-| WeatherApp         | Приложение прогноза погоды           | Vue.js     | [repo](https://github.com/…)  |
-| …                  | …                                    | …          | …                             |
+## 🚀 Проекты
+
+- **[Unsupervised-Learning-Analysis](https://github.com/papafranchesco/Unsupervised-Learning-Analysis)**  
+  Сравнительный анализ алгоритмов кластеризации (k-means, DBSCAN и др.) на данных профилей клиентов.  
+  **Технологии:** Python, Jupyter, scikit-learn, seaborn. :contentReference[oaicite:0]{index=0}
+
+- **[Innovedge](https://github.com/papafranchesco/Innovedge)**  
+  MVP телеграм-бота “dating-bot” для студентов и работодателей с рекомендательной системой на LLM.  
+  **Технологии:** Python, PostgreSQL, SQLAlchemy, ollama. :contentReference[oaicite:1]{index=1}
+
+- **[parstest](https://github.com/papafranchesco/parstest)**  
+  Мониторинг упоминаний Путина и Трампа через RSS-ленты и API, классификация тональности и визуализация, реализован телеграм бот для сбора.  
+  **Технологии:** Python, OpenAI GPT-4.1-nano, RSS, SQLite, matplotlib, seaborn. :contentReference[oaicite:2]{index=2}
+
+- **[Basketball-Foul-Detection](https://github.com/papafranchesco/-Basketball_foul_detection)**  
+  Полный конвейер для обнаружения фолов в баскетбольных матчах (главная модель RF-DETR, сравнение с Faster R-CNN и YOLOv12).  
+  **Технологии:** Python, RF-DETR, Faster R-CNN, YOLOv12, OpenCV, FFmpeg. :contentReference[oaicite:3]{index=3}
 
 
-## ✉ Контакты
-- Email: ikamatozzz@yandex.ru  
+- **[notebooks](https://github.com/papafranchesco/notebooks)**  
+  Различные Jupyter Notebook’ы: activity_recognizer, scoring_segmentation и другие эксперименты.  
+  **Технологии:** Python, Jupyter. :contentReference[oaicite:5]{index=5}
 
