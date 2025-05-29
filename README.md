@@ -25,8 +25,7 @@
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img alt="scikit-image" src="https://img.shields.io/badge/scikit--image-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="ollama" src="https://img.shields.io/badge/ollama-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="smol-agents" src="https://img.shields.io/badge/smolagents-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="smolagents" src="https://img.shields.io/badge/smolagents-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Whisper" src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
