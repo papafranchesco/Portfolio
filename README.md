@@ -40,7 +40,7 @@
 </p>
 
 
-## 🚀 Проекты
+##  Проекты
 
 - **[Unsupervised-Learning-Analysis](https://github.com/papafranchesco/Unsupervised-Learning-Analysis)**  
   Сравнительный анализ алгоритмов кластеризации (k-means, DBSCAN и др.) на данных профилей клиентов.  
