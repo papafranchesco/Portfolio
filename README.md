@@ -1,12 +1,8 @@
 # Portfolio
 
 
-## 🚀 О себе
-Кратко о вас: чем занимаетесь, навыки, интересы.
-
-## 🛠 Навыки
-## 🛠 Навыки
-
+##  О себе
+## Навыки
 ### Python
 <p>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -40,10 +36,6 @@
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="A/B Testing" src="https://img.shields.io/badge/A%2FB_Testing-20BEAA?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="Math Stats" src="https://img.shields.io/badge/Stats-FFB300?style=for-the-badge&logo=mathpix&logoColor=white"/>
-  <img alt="MS Office" src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img alt="English C1" src="https://img.shields.io/badge/English-C1-0078D4?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 </p>
 
 
@@ -54,11 +46,7 @@
 | WeatherApp         | Приложение прогноза погоды           | Vue.js     | [repo](https://github.com/…)  |
 | …                  | …                                    | …          | …                             |
 
-Для каждого проекта можно:
-- Добавить **скриншоты** (`![alt](path/to/image.png)`)
-- Повесить **бейджи** от [shields.io](https://shields.io) для версии, сборки, лицензии.
-- Отметить “pinned” проекты с помощью соответствующей секции в настройках профиля.
 
 ## ✉ Контакты
-- Email: ivan@пример.com  
-- LinkedIn: [linkedin.com/in/…](https://linkedin.com/in/…)  
+- Email: ikamatozzz@yandex.ru  
+
