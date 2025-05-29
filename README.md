@@ -22,7 +22,6 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-00B2FF?style=for-the-badge&logo=catboost&logoColor=white"/>
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img alt="scikit-image" src="https://img.shields.io/badge/scikit--image-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="ollama" src="https://img.shields.io/badge/ollama-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="smolagents" src="https://img.shields.io/badge/smolagents-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
