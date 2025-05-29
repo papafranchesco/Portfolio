@@ -44,22 +44,22 @@
 
 - **[Unsupervised-Learning-Analysis](https://github.com/papafranchesco/Unsupervised-Learning-Analysis)**  
   Сравнительный анализ алгоритмов кластеризации (k-means, DBSCAN и др.) на данных профилей клиентов.  
-  **Технологии:** Python, Jupyter, scikit-learn, seaborn. :contentReference[oaicite:0]{index=0}
+  **Технологии:** Python, Jupyter, scikit-learn, seaborn. 
 
 - **[Innovedge](https://github.com/papafranchesco/Innovedge)**  
   MVP телеграм-бота “dating-bot” для студентов и работодателей с рекомендательной системой на LLM.  
-  **Технологии:** Python, PostgreSQL, SQLAlchemy, ollama. :contentReference[oaicite:1]{index=1}
+  **Технологии:** Python, PostgreSQL, SQLAlchemy, ollama. 
 
 - **[parstest](https://github.com/papafranchesco/parstest)**  
   Мониторинг упоминаний Путина и Трампа через RSS-ленты и API, классификация тональности и визуализация, реализован телеграм бот для сбора.  
-  **Технологии:** Python, OpenAI GPT-4.1-nano, RSS, SQLite, matplotlib, seaborn. :contentReference[oaicite:2]{index=2}
+  **Технологии:** Python, OpenAI GPT-4.1-nano, RSS, SQLite, matplotlib, seaborn. 
 
 - **[Basketball-Foul-Detection](https://github.com/papafranchesco/-Basketball_foul_detection)**  
   Полный конвейер для обнаружения фолов в баскетбольных матчах (главная модель RF-DETR, сравнение с Faster R-CNN и YOLOv12).  
-  **Технологии:** Python, RF-DETR, Faster R-CNN, YOLOv12, OpenCV, FFmpeg. :contentReference[oaicite:3]{index=3}
+  **Технологии:** Python, RF-DETR, Faster R-CNN, YOLOv12, OpenCV, FFmpeg. 
 
 
 - **[notebooks](https://github.com/papafranchesco/notebooks)**  
   Различные Jupyter Notebook’ы: activity_recognizer, scoring_segmentation и другие эксперименты.  
-  **Технологии:** Python, Jupyter. :contentReference[oaicite:5]{index=5}
+  **Технологии:** Python, Jupyter. 
 
